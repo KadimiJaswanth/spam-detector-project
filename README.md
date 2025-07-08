@@ -1,4 +1,4 @@
-# 📧 Spam SMS / Email Detector 🤖2
+# 📧 Spam SMS / Email Detector 🤖
 
 <!-- Better Title: Emojis make it visually appealing and grab attention. -->
 
